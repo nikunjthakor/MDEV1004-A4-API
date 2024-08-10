@@ -1,3 +1,12 @@
+/**
+ *  movie.ts
+ * Name:- Nikunj Thakor
+ * StudentId:- 20055644
+ * Date:- 10-08-2024
+ * movie Endpoits
+ */
+
+
 import express from 'express';
 const router = express.Router();
 
